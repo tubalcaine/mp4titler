@@ -3,7 +3,7 @@
 ## Some dev notes:
 #
 # I like to use PAR::Packer to make perl scripts into self-contained binaries sometimes.
-# Before doing that, I would prbably want to use something like Getopt::Long to
+# Before doing that, I would probably want to use something like Getopt::Long to
 # parameterize the $pattern and the $mod setting, and to have if $mod is zero, no
 # run time output. I may do that in my non-existant spare time.
 #
