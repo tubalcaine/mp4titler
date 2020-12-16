@@ -109,3 +109,4 @@ sub setTitle {
 	
 	return !$result;
 }
+
