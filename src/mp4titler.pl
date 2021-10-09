@@ -22,7 +22,7 @@ use File::Find;
 use File::Basename;
 
 # Regular expression used to match files
-my $pattern = "mpeg|mp4|m4v";
+my $pattern = "\\.mpeg|\\.mp4|\\.m4v";
 
 if ( ( scalar @ARGV ) < 1 ) {
 	print
